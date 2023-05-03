@@ -23,8 +23,7 @@ To evaluate the model, we use a suite of precision measures that depend on the I
 <img src="images/project2/img2.png?raw=true"/>
 
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/YOLO?logo=YOLO)](#) [![](https://img.shields.io/badge/Scrapy-white?logo=R-CNN)](#) [![](https://img.shields.io/badge/Scrapy-white?logo=Object_Detection)](#)
-
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 ---
 
 ## [Road signal classification](https://github.com/quochungtran/ecocup-detection)
@@ -33,7 +32,7 @@ The goal of this project is to develop a deep learning model using VGG16-CNN arc
 
 <img src="images/project3/vgg16.png?raw=true"/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Scrapy-white?logo=Tensorflow)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Tensorflow?logo=Tensorflow)](#)
 
 [View code on Jupyter NoteBook](https://github.com/quochungtran/build-road-signal-classifiations/blob/master/build_road_signal_classifiations.ipynb)
 
