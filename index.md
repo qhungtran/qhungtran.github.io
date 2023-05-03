@@ -32,14 +32,12 @@ The goal of this project is to develop a deep learning model using VGG16-CNN arc
 
 <img src="images/project3/vgg16.png?raw=true"/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#) [![](https://img.shields.io/badge/YOLO-white?logo=yolo)](#)
 
-
-[![](https://img.shields.io/badge/Python-white?logo=yolo)](#) 
 [View code on Jupyter NoteBook](https://github.com/quochungtran/build-road-signal-classifiations/blob/master/build_road_signal_classifiations.ipynb)
 
 ## [Reverse Polish Notation Calculator](https://github.com/quochungtran/ecocup-detection)
 
 Implemented a Reverse Polish Notation calculator using CMake build system and Object-Oriented Programming principles.
-[![](https://img.shields.io/badge/C++-white?logo=C++)](#) [![](https://img.shields.io/badge/Cmake-white?logo=cmake)](#) 
+[![](https://img.shields.io/badge/C++-#00599C?logo=C++)](#) [![](https://img.shields.io/badge/Cmake-#064F8C?logo=cmake)](#) 
 <!-- Remove above link if you don't want to attibute -->
