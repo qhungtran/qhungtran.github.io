@@ -32,7 +32,7 @@ The goal of this project is to develop a deep learning model using VGG16-CNN arc
 
 <img src="images/project3/vgg16.png?raw=true"/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Tensorflow_white?logo=Tensorflow)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#)
 
 [View code on Jupyter NoteBook](https://github.com/quochungtran/build-road-signal-classifiations/blob/master/build_road_signal_classifiations.ipynb)
 
