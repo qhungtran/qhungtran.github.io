@@ -1,4 +1,4 @@
-## Selected projects in Software Engineer, Data science, machine learning 
+## My selected projects in Software Engineer, Data science and machine learning 
 
 ---
 
