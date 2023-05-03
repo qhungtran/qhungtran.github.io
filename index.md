@@ -36,9 +36,11 @@ The goal of this project is to develop a deep learning model using VGG16-CNN arc
 
 [View code on Jupyter NoteBook](https://github.com/quochungtran/build-road-signal-classifiations/blob/master/build_road_signal_classifiations.ipynb)
 
+
+
 ## [Reverse Polish Notation Calculator](https://github.com/quochungtran/ecocup-detection)
 
 Implemented a Reverse Polish Notation calculator using CMake build system and Object-Oriented Programming principles.
 
-[![](https://img.shields.io/badge/C++-#00599C?logo=c++)](#) [![](https://img.shields.io/badge/Cmake-#064F8C?logo=cmake)](#) 
+[![](https://img.shields.io/badge/C++-red?logo=c++)](#) [![](https://img.shields.io/badge/Cmake-red?logo=cmake)](#) 
 <!-- Remove above link if you don't want to attibute -->
