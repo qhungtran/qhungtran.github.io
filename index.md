@@ -42,5 +42,10 @@ The goal of this project is to develop a deep learning model using VGG16-CNN arc
 
 Implemented a Reverse Polish Notation calculator using CMake build system and Object-Oriented Programming principles.
 
+<img src="images/project4/cal.png?raw=true"/>
+
 [![](https://img.shields.io/badge/C++-red?logo=c++)](#) [![](https://img.shields.io/badge/Cmake-red?logo=cmake)](#) 
+
+[View application designed documentation](https://docs.google.com/document/d/13AbOvq0IQlzv06fJT8MeYQ11qp6yWQg4kPRXkRUgFaM/edit?usp=sharing)
+
 <!-- Remove above link if you don't want to attibute -->
