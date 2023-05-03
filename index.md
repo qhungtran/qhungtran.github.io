@@ -41,7 +41,5 @@ The goal of this project is to develop a deep learning model using VGG16-CNN arc
 ## [Reverse Polish Notation Calculator](https://github.com/quochungtran/ecocup-detection)
 
 Implemented a Reverse Polish Notation calculator using CMake build system and Object-Oriented Programming principles.
-
-
-
+[![](https://img.shields.io/badge/C++-white?logo=C++)](#) [![](https://img.shields.io/badge/Cmake-white?logo=cmake)](#) 
 <!-- Remove above link if you don't want to attibute -->
