@@ -35,7 +35,7 @@ A project takes place with the aim of applying the concepts seen in class on a d
 
 ## [Ecocup Detection](https://github.com/quochungtran/ecocup-detection)
 
-This project of ecocup detector was very interesting, since it allowed us to appropriate more concretely all that we saw in class, whether it is at the level of machine learning with the sliding window detection, or at the level of deep learning with YOLO and R-CNN. learning with the sliding window detection, or in deep learning with YOLO and R-CNN.
+This project of ecocup detector was very interesting, since it allowed us to appropriate more concretely all that we saw in class, whether it is at the level of machine learning with the sliding window detection, or at the level of deep learning with YOLO and R-CNN.
 
 To evaluate the model, we use a suite of precision measures that depend on the IoU threshold and the performance of the model, including (Precisiom, Recall, F1 Score).
 <img src="images/project2/img1.png?raw=true"/>
