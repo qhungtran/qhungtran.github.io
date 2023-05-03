@@ -1,11 +1,16 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: TRAN Quoc Hung # your name (or website title) here
+logo: "/images/my_photo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>
+  Graduated student in master of science (Bac+5), major in Computer Science, minor in Data Science.
+  Previously intership at CEA, Google Summer of Code, Criteo. 
+  I am presently looking for a Machine Learning / Software Engineer position with a forward-moving company.
+  <br>
   Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <br>Whether you are looking to launch a new AI tool, optimize your data pipelines, or gain deeper insights from your datasets, 
+  I am confident that I can help you achieve your goals.<br>
+  <a href="https://www.linkedin.com/in/tran-quoc-hung-6362821b3/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
