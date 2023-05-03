@@ -16,8 +16,8 @@ Criteo is an advertising company, focused on delivering trusted and impactful ad
 [![](https://img.shields.io/badge/HDFS-white?logo=hdfs)](#) 
 
 [Check out my working report here](https://drive.google.com/drive/search?q=rapport)
----
 
+---
 
 ## [Animals Rescues in London](https://github.com/quochungtran/Animal-Rescues-)
 A project takes place with the aim of applying the concepts seen in class on a data set. The selected dataset and that of Animal Rescues in London proposed during the #TidyTuesday data analysis challenges. This repository shows an analysis of the dataset as well as the intellectual journey we took to perform this analysis. This analysis is guided by fixed objectives, The first objective will be to understand which animals are rescued during the interventions, understand the relationship between the type of animal and the location of intervention. The second objective is allow us to understand what types od interventions are and especially how they depend on the location, the date,...
