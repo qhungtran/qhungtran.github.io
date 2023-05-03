@@ -2,7 +2,7 @@
 
 ---
 
-## [campaign forecasting model]
+## [campaign forecasting model]{https://drive.google.com/drive/search?q=rapport}
 Criteo is an advertising company, focused on delivering trusted and impactful advertising. So as a machine learning engineer in my end of study internship, me and my mentor  has designed and offline studied a machine learning pipeline, including Preprocessing data, Feature engineering. the goal is to improve the performance of advertising campaign models using XGBoost ( a robust machine-learning algorithm that can help us understand your data and make better decisions. XGBoost is an implementation of gradient-boosting decision trees.)
 
 <img src="images/intern/thumnail1.png?raw=true"/>
@@ -13,14 +13,14 @@ Criteo is an advertising company, focused on delivering trusted and impactful ad
 [![](https://img.shields.io/badge/SQL-white?logo=sql)](#) 
 [![](https://img.shields.io/badge/MLFlow-white?logo=mlflow)](#) 
 [![](https://img.shields.io/badge/Spark-white?logo=spark)](#) 
-[![](https://img.shields.io/badge/C#-white?logo=C#)](#) 
+[![](https://img.shields.io/badge/HDFS-white?logo=hdfs)](#) 
 
 [Check out my working report here]{https://drive.google.com/drive/search?q=rapport}
 ---
 
 
 ## [Animals Rescues in London](https://github.com/quochungtran/Animal-Rescues-)
-A project takes place with the aim of applying the concepts seen in class on a data set. The selected dataset and that of Animal Rescues in London proposed during the #TidyTuesday data analysis challenges. This repository shows an analysis of the dataset as well as the intellectual journey we took to perform this analysis. This analysis is guided by fixed objectives, The first objective will be to understand which animals are rescued during the interventions, understand the rrelationship between the type of animal and the location of intervention. The second objective is allow us to understand what types od interventions are and especially how they depend on the location, the date,...
+A project takes place with the aim of applying the concepts seen in class on a data set. The selected dataset and that of Animal Rescues in London proposed during the #TidyTuesday data analysis challenges. This repository shows an analysis of the dataset as well as the intellectual journey we took to perform this analysis. This analysis is guided by fixed objectives, The first objective will be to understand which animals are rescued during the interventions, understand the relationship between the type of animal and the location of intervention. The second objective is allow us to understand what types od interventions are and especially how they depend on the location, the date,...
 
 <img src="images/project1/thumnail1.png?raw=true"/>
 <img src="images/project1/thumnail2.png?raw=true"/>
