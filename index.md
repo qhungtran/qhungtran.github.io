@@ -17,6 +17,24 @@ Criteo is an advertising company, focused on delivering trusted and impactful ad
 
 [Check out my working report here](https://drive.google.com/file/d/1p5-wL8A5XrHiz2ckNbTXe7e6Z0ZmiSqj/view?usp=sharing)
 
+
+
+---
+
+## [Google Summer of Code 2022](https://community.kde.org/GSoC/2022/StatusReports/QuocHungTran)
+DigiKam is an advanced open-source digital photo management application that runs on Linux, Windows, and MacOS. The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
+
+However, many digikam users can take a lot of types of document pictures containing the text in them, which is needed to extract for specific reasons. Therefore, it would be practical to generate tags, add a description or a caption automatically.
+
+Implementing Optical Character Recognition (OCR) technology is a proposed solution for automating and extracting data. Printed or written text from a scanned document or image file can be converted to text in a machine-readable form and can be used for data processing, such as editing or searching.
+
+The goal of this project is to implement a new generic DPlugin to process images in batch with Tesseract. Tesseract is an-open-source OCR engine. Even though it can be painful to implement and modify sometimes, only a few of free and powerful OCR alternatives are available on the current market. Tesseract is compatible with many programming languages and frameworks through wrappers that can be found here. Tesseract can be used with the existing layout analysis to recognize text within a large document, or it can be used in conjunction with an external text detector to recognize text from an image of a single text line.
+
+
+<img src="images/project5/thum.png?raw=true"/>
+
+[Check out to my blog here](https://community.kde.org/GSoC/2022/StatusReports/QuocHungTran)
+
 ---
 
 ## [Animals Rescues in London](https://github.com/quochungtran/Animal-Rescues-)
