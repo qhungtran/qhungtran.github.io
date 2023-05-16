@@ -2,7 +2,7 @@
 
 ---
 
-## [Campaign forecasting model](https://drive.google.com/drive/search?q=rapport)
+## [Campaign forecasting model](https://drive.google.com/file/d/1p5-wL8A5XrHiz2ckNbTXe7e6Z0ZmiSqj/view?usp=sharing)
 Criteo is an advertising company, focused on delivering trusted and impactful advertising. So as a machine learning engineer in my end of study internship, me and my mentor  have designed and offline studied a machine learning pipeline, including Preprocessing data, Feature engineering. the goal is to improve the performance of advertising campaign models using XGBoost ( a robust machine-learning algorithm that can help us understand your data and make better decisions. XGBoost is an implementation of gradient-boosting decision trees.)
 
 <img src="images/intern/thumnail1.png?raw=true"/>
