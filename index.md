@@ -46,7 +46,7 @@ Next step, I continue to design ML pipeline following MLOps concepts...
 
 <img src="images/project6/thum.png?raw=true"/>
 
-[Check it out at]{https://github.com/quochungtran/NLP-with-Disaster-Tweets} 
+[Check it out at](https://github.com/quochungtran/NLP-with-Disaster-Tweets)
 
 
 ---
