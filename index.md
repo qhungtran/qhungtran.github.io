@@ -35,6 +35,20 @@ The goal of this project is to implement a new generic DPlugin to process images
 
 [Check out to my blog here](https://community.kde.org/GSoC/2022/StatusReports/QuocHungTran)
 
+
+## [Natural Language Processing with Disaster Tweets](https://github.com/quochungtran/NLP-with-Disaster-Tweets)
+
+This project is constructed for the Kaggle competition, Natural Language Processing with Disaster Tweets. The goal of this competition is to build a machine learning model that predicts which Tweets are about real disasters and which ones aren't. The repository contains a Jupyter notebook with the code for the model, as well as additional documentation and resources.
+
+In this project, we continue to deep into a pretrain-model, fine tune transformer-based model, including BERT to classify disaster tweets, feature extraction and model evaluation.
+
+Next step, I continue to design ML pipeline following MLOps concepts...
+
+<img src="images/project6/thum.png?raw=true"/>
+
+[Check it out at]{https://github.com/quochungtran/NLP-with-Disaster-Tweets} 
+
+
 ---
 
 ## [Animals Rescues in London](https://github.com/quochungtran/Animal-Rescues-)
